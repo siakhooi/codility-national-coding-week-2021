@@ -4,11 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>nsh.codility</groupId>
-	<artifactId>challenge2021</artifactId>
+	<artifactId>codility-national-coding-week-2021</artifactId>
 	<version>1.0.0</version>
 
 	<name>challenge2021</name>
-	<url>https://github.com/siakhooi/codility-challenge-2021/</url>
+	<url>https://github.com/siakhooi/codility-national-coding-week-2021</url>
+
 
 	<build>
 		<plugins>
@@ -22,9 +23,9 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<java.version>1.8</java.version>
-		<maven.compiler.source>1.8</maven.compiler.source>
-		<maven.compiler.target>1.8</maven.compiler.target>
+		<java.version>16</java.version>
+		<maven.compiler.source>16</maven.compiler.source>
+		<maven.compiler.target>16</maven.compiler.target>
 	</properties>
 
 	<dependencies>
