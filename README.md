@@ -5,7 +5,7 @@
 - Difficulty: Medium
 - Find the alphabetically largest string that can be obtained by performing some substitutions.
 - <https://app.codility.com/programmers/challenges/national_coding_week_2021/>
-- <task-url>
+- <https://app.codility.com/programmers/task/largest_string/>
 
 ## Versions
 
