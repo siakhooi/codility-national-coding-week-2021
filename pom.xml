@@ -4,10 +4,10 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>nsh.codility</groupId>
-	<artifactId>codility-national-coding-week-2021</artifactId>
+	<artifactId>national-coding-week-2021</artifactId>
 	<version>1.0.0</version>
 
-	<name>challenge2021</name>
+	<name>national-coding-week-2021</name>
 	<url>https://github.com/siakhooi/codility-national-coding-week-2021</url>
 
 
